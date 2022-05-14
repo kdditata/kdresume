@@ -30,6 +30,20 @@ The unique path I took to web development forced me to think critically and crea
 ## 💼 Experience    
 
 ##### Empire Auto    
-🔹 Manage complex scheduling and maintainance system to accurately track the movement of over 60 automobiles daily
+🔹 Manage complex scheduling and maintenance system to accurately track the movement of over 60 automobiles daily.
+🔹 Effectively communicate with customers and follow leads for purchase possibilities.
+🔹 Transport and prepare vehicles for purchase.
+
+##### Craters and Freighters   
+🔹 Schedule shipping and complete Bill of Lading forms. 
+🔹 Effectively communicate with customers.
+🔹 Manage invoices and complete billing responsibilities using QuickBooks.
+
+##### McBride Orthopedic Hospital 
+🔹 Complete diagnostic radiographs and properly position patients. 
+🔹 Practice proper patient care protocols.
+🔹 Communicate with all other departments of the hospital in order to treat and diagnose patients.
+
+
 
 
