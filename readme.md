@@ -5,44 +5,44 @@ The unique path I took to web development forced me to think critically and crea
  
 
 ## 📞 Contact Information   
-🔹 [(405) 600-4514](4056004514)   
-🔹 Oklahoma City, Ok  
-🔹 [ditatakirstin@gmail.com](mailto:ditakakirstin@gmail.com)  
-🔹 [LinkedIn]()  
-🔹 [GitHUb]()
+🔹 [(405) 600-4514](4056004514)    
+🔹 Oklahoma City, Ok   
+🔹 [ditatakirstin@gmail.com](mailto:ditakakirstin@gmail.com)   
+🔹 [LinkedIn](https://www.linkedin.com/in/kirstinditata/)   
+🔹 [GitHUb](https://github.com/kditata27)    
 
 ## 📓 Education   
 
 ###### [The Last Mile](https://www.thelastmile.org) | 2019 - 2022   
 *Full stack Mern Development*    
-🔹 Sponsored by [Chan Zuckerburg Initiative](https://chanzuckerberg.com/newsroom/innovative-coding-program-expands-opportunities-for-women-incarcerated-in-oklahoma/)  
-🔹 Planned and developed full-stack web pages and applications with full CRUD capability     
-🔹 Demonstrated proficiency with frameworks, libraries, dev tools, and command line operations  
-🔹 Focus on clean, test driven code with consistent commits and well written README
+🔹 Sponsored by [Chan Zuckerburg Initiative](https://chanzuckerberg.com/newsroom/innovative-coding-program-expands-opportunities-for-women-incarcerated-in-oklahoma/)    
+🔹 Planned and developed full-stack web pages and applications with full CRUD capability      
+🔹 Demonstrated proficiency with frameworks, libraries, dev tools, and command line operations   
+🔹 Focus on clean, test driven code with consistent commits and well written README  
 
 
 ###### [East Arkansas Community College](https://www.eacc.edu/) | 2016
 *Associate in Applied Science/ Radiologic Technology*  
-🔹 Review and evaluate developed x-rays for diagnostic purposes  
-🔹 Specifications for exposure time and distance  
-🔹 Key commands to specify scan sequences and adjust transmitters and receivers
+🔹 Review and evaluate developed x-rays for diagnostic purposes   
+🔹 Specifications for exposure time and distance   
+🔹 Key commands to specify scan sequences and adjust transmitters and receiver  
 
 ## 💼 Experience    
 
 ##### Empire Auto    
-🔹 Manage complex scheduling and maintenance system to accurately track the movement of over 60 automobiles daily.
-🔹 Effectively communicate with customers and follow leads for purchase possibilities.
-🔹 Transport and prepare vehicles for purchase.
+🔹 Manage complex scheduling and maintenance system to accurately track the movement of over 60 automobiles daily.  
+🔹 Effectively communicate with customers and follow leads for purchase possibilities.  
+🔹 Transport and prepare vehicles for purchase.  
 
 ##### Craters and Freighters   
-🔹 Schedule shipping and complete Bill of Lading forms. 
-🔹 Effectively communicate with customers.
-🔹 Manage invoices and complete billing responsibilities using QuickBooks.
+🔹 Schedule shipping and complete Bill of Lading forms.   
+🔹 Effectively communicate with customers.  
+🔹 Manage invoices and complete billing responsibilities using QuickBooks.  
 
 ##### McBride Orthopedic Hospital 
-🔹 Complete diagnostic radiographs and properly position patients. 
-🔹 Practice proper patient care protocols.
-🔹 Communicate with all other departments of the hospital in order to treat and diagnose patients.
+🔹 Complete diagnostic radiographs and properly position patients.   
+🔹 Practice proper patient care protocols.  
+🔹 Communicate with all other departments of the hospital in order to treat and diagnose patients.  
 
 
 
